@@ -8,4 +8,4 @@ Exploring and assessing the data, testing relationships between variables, findi
 
 ### Programming
 
-Continuos learning and practice with Python, R and SQL 
+Continuous learning and practice with Python, R and SQL 
