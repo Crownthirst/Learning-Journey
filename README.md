@@ -1,11 +1,11 @@
-# Advancing-into-analytics
+## My learning
 
-I Committed to learnig Exploratory Data analysis on this project,
+This repository contains a dump of all the files i used in my learning journey.
 
-Exploring and assessing the data
+I Committed to learnig Exploratory Data analysis on this project
 
-Testing relationships between variables
+Exploring and assessing the data, testing relationships between variables, finding patterns and drawing insights from data
 
-Finding patterns
+### Programming
 
-and drawing insights from the data
+Continuous learning and practice with Python, R and SQL 
